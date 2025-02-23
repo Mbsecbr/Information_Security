@@ -1,6 +1,6 @@
 # Information_Security
 
-I'm Marcello, a cybersecurity professional with extensive experience in IT and OT security.
+## I'm Marcello, a cybersecurity professional with extensive experience in IT and OT security.
 
 This personal space is for sharing materials developed by me and other materials shared by excellent professionals in the Cybersecurity area.
 
