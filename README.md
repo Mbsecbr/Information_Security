@@ -38,4 +38,44 @@
   - [Security Audits] (#Security-Audits)
   - [Security Governance (#Security-Governance)
   - [Security Team Management (#Security-Team-Management)
-      
+    
+  ## Awareness & Trainning
+
+
+  
+  ## Artificial Intelligence
+
+
+  
+  ## Cloud Security
+
+
+  
+  ## Data Protection (DPO)
+
+
+  
+  ## Defensive Security (BLUE TEAM)
+
+
+  
+  ## Offensive Security(RED TEAM)
+
+
+  
+  ## Operational Technology
+
+
+  
+  ## Security Audits
+
+
+  
+  ## Security Governance
+
+
+  
+  ## Security Team Management
+
+
+  
