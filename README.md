@@ -9,3 +9,6 @@ This personal space is for sharing materials developed by me and public material
 <br>
 </br>
 Blue Team, Red Team and Cloud Security Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | IT & OT security |
+<br>
+<img src="https://giphy.com/gifs/VGwTq3G6a39cI">
+</br>
