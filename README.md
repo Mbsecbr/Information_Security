@@ -21,34 +21,15 @@ Blue Team, Red Team and Cloud Security Expert | InfoSec Leader | OWASP Member | 
 <br>
 </br>
 
-
-## Awareness & Trainning
-
-
-## Artificial Intelligence
-
-
-## Cloud Security
-
-
-## Data Protection (DPO)
-
-
-## Defensive Security (BLUE TEAM)
-
-
-## Offensive Security(RED TEAM)
-
-
-## Operational Technology
-
-
-## Security Audits
-
-
-## Security Governance
-
-
-## Security Team Management
-
-
+## Contents
+  - [Awareness & Trainning] (Awareness & Trainning)
+  - [Artificial Intelligence] (#Artificial Intelligence)
+  - [Cloud Security] (#Cloud Security)
+  - [Data Protection (DPO)] (#Data Protection (DPO))
+  - [Defensive Security (BLUE TEAM)] (#Defensive Security (BLUE TEAM))
+  - [Offensive Security(RED TEAM)] (#Offensive Security(RED TEAM))
+  - [Operational Technology (#Operational Technology)
+  - [Security Audits] (#Security Audits)
+  - [Security Governance (#Security Governance)
+  - [Security Team Management (#Security Team Management)
+  
