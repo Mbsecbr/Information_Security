@@ -38,10 +38,15 @@
   - [Security Audits] (#Security-Audits)
   - [Security Governance (#Security-Governance)
   - [Security Team Management (#Security-Team-Management)
-    
+  <br>
+  </br>
+  
   ## Awareness & Trainning
 
+#### Awareness
 
+#### Technical Trainning
+#### Skills Development
   
   ## Artificial Intelligence
 
