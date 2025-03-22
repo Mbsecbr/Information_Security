@@ -1,86 +1,101 @@
 <div align="center">
-  
-  # Information_Security
-  <br>
-  </br>
-  
-  </div>
-  
-  ### I'm Marcello
-  <br>
-  </br>
-  
-  This personal space is for sharing materials developed by me and public materials from other people in the field of Cybersecurity.
-  <br>
-  </br>
-    
-  Blue Team, Red Team and Cloud Security Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | IT & OT security |
-  <br>
-  </br>
-    
-  <br>
-  <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYwdnNzcXJhdW1iNm1sOXFxd2xoMTNlYWY1d2tzeGRqeXpmZGZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif" width="550">
-  </p>
-  </br>
-    
-  <br>
-  </br>
-    
-  ## Contents
-  - [Awareness & Trainning] (Awareness-&-Trainning)
-  - [Artificial Intelligence] (#Artificial-Intelligence)
-  - [Cloud Security] (#Cloud-Security)
-  - [Data Protection (DPO)] (#Data-Protection-(DPO))
-  - [Defensive Security (BLUE TEAM)] (#Defensive-Security-(BLUE-TEAM))
-  - [Offensive Security(RED TEAM)] (#Offensive-Security(RED-TEAM))
-  - [Operational Technology (#Operational-Technology)
-  - [Security Audits] (#Security-Audits)
-  - [Security Governance (#Security-Governance)
-  - [Security Team Management (#Security-Team-Management)
-  <br>
-  </br>
-  
-  ## Awareness & Trainning
 
-#### Awareness
+# Information Security
 
-#### Technical Trainning
-#### Skills Development
-  
-  ## Artificial Intelligence
+</div>
 
+## 👋 About Me
 
-  
-  ## Cloud Security
+### I'm Marcello
 
+Este espaço pessoal é dedicado ao compartilhamento de materiais desenvolvidos por mim e recursos públicos sobre Cybersecurity.
 
-  
-  ## Data Protection (DPO)
+🔹 **Blue Team, Red Team e Cloud Security Expert**  
+🔹 **Líder em Segurança da Informação**  
+🔹 **Membro da OWASP**  
+🔹 **Palestrante e Instrutor**  
+🔹 **Mentor de Cybersecurity**  
+🔹 **Segurança de IT & OT**  
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYwdnNzcXJhdW1iNm1sOXFxd2xoMTNlYWY1d2tzeGRqeXpmZGZoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif" width="550" alt="Cybersecurity GIF">
+</p>
 
-  
-  ## Defensive Security (BLUE TEAM)
+---
 
+## 📚 Contents
 
-  
-  ## Offensive Security(RED TEAM)
+- [Awareness & Training](#awareness--training)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Cloud Security](#cloud-security)
+- [Data Protection (DPO)](#data-protection-dpo)
+- [Defensive Security (BLUE TEAM)](#defensive-security-blue-team)
+- [Offensive Security (RED TEAM)](#offensive-security-red-team)
+- [Operational Technology](#operational-technology)
+- [Security Audits](#security-audits)
+- [Security Governance](#security-governance)
+- [Security Team Management](#security-team-management)
 
+---
 
-  
-  ## Operational Technology
+## 🔹 Awareness & Training
 
+### 🔹 Awareness
 
-  
-  ## Security Audits
+### 🔹 Technical Training
 
+### 🔹 Skills Development
 
-  
-  ## Security Governance
+---
 
+## 🤖 Artificial Intelligence
 
-  
-  ## Security Team Management
+*(Conteúdo em breve...)*
 
+---
 
-  
+## ☁️ Cloud Security
+
+*(Conteúdo em breve...)*
+
+---
+
+## 🔐 Data Protection (DPO)
+
+*(Conteúdo em breve...)*
+
+---
+
+## 🛡️ Defensive Security (BLUE TEAM)
+
+*(Conteúdo em breve...)*
+
+---
+
+## 🎭 Offensive Security (RED TEAM)
+
+*(Conteúdo em breve...)*
+
+---
+
+## ⚙️ Operational Technology
+
+*(Conteúdo em breve...)*
+
+---
+
+## 📊 Security Audits
+
+*(Conteúdo em breve...)*
+
+---
+
+## 🏛️ Security Governance
+
+*(Conteúdo em breve...)*
+
+---
+
+## 👥 Security Team Management
+
+*(Conteúdo em breve...)*
